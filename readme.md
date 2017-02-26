@@ -2,7 +2,7 @@
 
 ## Info
 
-These texts are transcripts of a book called "Let's Talk about Life: An Integrated Approach to Russian Conversation" by Emily Tall and Valentina Vlasikova published by "John Wiley & Sons, Inc." in 1996. They are intermediate level audio files of conversation of about 10-15 minutes in length of native speakers discussing various aspects of Russian post-Soviet life.
+These texts are transcripts of a book called "Let's Talk about Life: An Integrated Approach to Russian Conversation" by Emily Tall and Valentina Vlasikova published by "John Wiley & Sons, Inc." in 1996. They are intermediate level audio files of conversation of about 10-15 minutes in length of native speakers discussing various aspects of Russian post-Soviet life. Sadly the book is out of publication and almost impossible to come by with the original recordings.
 
 While the audio was part of the book, the transcripts are not. Although I believe they were included as part of an accompanying teacher's book, which is pretty much not to be found anywhere. The texts made available here I had therefore transcribed by [maria_levy](https://www.fiverr.com/maria_levy).
 
