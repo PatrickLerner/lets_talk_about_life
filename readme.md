@@ -18,4 +18,4 @@ While the audio was part of the book, the transcripts are not. Although I believ
 | [Урок № 6 Религия](./6_религия.md)                                                                             | [Аудио](https://mega.nz/#!1RAggYDD!X2RsCuT3ltnCHHoMGOjjU097hbXMxGpbbOUmUyA5cXU) | |
 | [Урок № 7 Мужчины и женщины](./7_мужчины_и_женщины.md)                                                         | [Аудио](https://mega.nz/#!xQQ33CRZ!QxR4tY3ILVBdqrnO7XKEaSUbQ6A1TXZT-IeHOqJB9HQ) | |
 | [Урок № 8 Общественные проблемы. Преступность. Экономика](./8_общественные_проблемы_преступность_экономика.md) | [Аудио](https://mega.nz/#!ZYI0FY5Y!FblURRSKwQLaq044edBc9m4lDeZbXVPu4BjCAT_5kSg) | |
-| [Textbook](https://mega.nz/#!wAxEDLZS!ijnxWZQji5n5SEtcTUYLV_hpESBnGL_Pmvl6UKWS1lc) | | |
+| [Textbook](https://mega.nz/#!wAxEDLZS!ijnxWZQji5n5SEtcTUYLV_hpESBnGL_Pmvl6UKWS1lc) | [Все Аудио](https://mega.nz/#!72xWkLIB!Av4HULbPHw6ZXLkmQ7ihwV2Be7jAtOrGH-LEKK__wfM) | |
